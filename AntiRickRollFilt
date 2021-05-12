@@ -43,6 +43,7 @@
 *##a[href*="youtube-nocookie.com/embed/dPmZqsQNzGA"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="tinyurl.com/37ws8e"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="nekofy.me/generateWaifu"]:before:style(content: "(Uyarı: Rickroll) " !important; color: #E6000D !important; visibility: visible)
